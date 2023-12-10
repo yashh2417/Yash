@@ -3,6 +3,7 @@
 I am fresher with a good foundation in data Science, having completed relevant courses and hands-on projects that have brighten my skills and I have good knowledge about Python, Data Manipulaton, Data Visualization, Feature Engineering, Exploratory data analysis and Machine Learning Algorithms. 
 
 ➤ 👀 I am looking for internship for data science/analyst role.
+
 ➤ 🌱 I’m currently enhancing my skills in Machine Learning.
 
 ![Logo](https://github.com/yashh2417/Yash/blob/main/data.jpg?raw=true)
